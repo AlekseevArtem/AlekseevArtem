@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseevArtem&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋 My name is Artem. I'm from Saint-Petersburg.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseevArtem&layout=compact&hide=Shell)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AlekseevArtem/AlekseevArtem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
