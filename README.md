@@ -1,4 +1,5 @@
-### Hi there 👋 My name is Artem. I'm from Saint-Petersburg.
+### Hi there 👋 I'm Artem from Saint-Petersburg.
+🔭I'm currently working on rewrite ToDoList to MVVM architecture.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseevArtem&layout=compact&hide=Shell)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
